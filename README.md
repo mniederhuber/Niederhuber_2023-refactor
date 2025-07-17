@@ -1,4 +1,5 @@
->[!WARNING] This is a refactor project of https://github.com/mniederhuber/Niederhuber_2023
+> [!WARNING] 
+> This is a refactor project of https://github.com/mniederhuber/Niederhuber_2023
 > The goal is to fully refactor the original codebase to optimize ease of reuse and reproducibility without changing results.
 > The original repository will remain as a record of the code at the time of publication.
 
