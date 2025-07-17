@@ -1,0 +1,2 @@
+raw_fastq_dir: 'data/raw/fastq'
+accessions_file: 'sheets/SraRunTable.csv'
